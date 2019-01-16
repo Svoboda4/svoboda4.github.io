@@ -28,14 +28,14 @@ body
 #Chel1
 {
    background-color: transparent;
-   background-image: url(../images/chel10.gif);
-   background-repeat: repeat;
+   background-image: url(../images/chel011.gif);
+   background-repeat: no-repeat;
    background-position: left top;
 }
 #PlashkaChel
 {
    background-color: transparent;
-   background-image: url(../images/Plashka.png);
+   background-image: url(../images/Plashka2.png);
    background-repeat: repeat;
    background-position: left top;
 }
@@ -45,4 +45,38 @@ body
    background-image: url(../images/logosayt.png);
    background-repeat: repeat;
    background-position: left top;
+}
+#Chel2
+{
+   background-color: transparent;
+   background-image: url(../images/chel22.gif);
+   background-repeat: repeat;
+   background-position: left top;
+}
+#Chel3
+{
+   background-color: transparent;
+   background-image: url(../images/chel032.gif);
+   background-repeat: repeat;
+   background-position: left top;
+}
+#Chel4
+{
+   background-color: transparent;
+   background-image: url(../images/chel44.gif);
+   background-repeat: repeat;
+   background-position: left top;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
 }
